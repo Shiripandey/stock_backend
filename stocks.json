@@ -1,502 +1,502 @@
 [
   {
     "symbol": "A",
-    "openPrice": 0.8971004007034544,
-    "lastUpdated": 1726996234649
+    "openPrice": 12.60069399739033,
+    "lastUpdated": 1726996445039
   },
   {
     "symbol": "AA",
-    "openPrice": 26.803687689269864,
-    "lastUpdated": 1726996234649
+    "openPrice": -1.3781863596839967,
+    "lastUpdated": 1726996445039
   },
   {
     "symbol": "AAA",
-    "openPrice": 0.2856837313726488,
-    "lastUpdated": 1726996234649
+    "openPrice": 5.8456214033222365,
+    "lastUpdated": 1726996445039
   },
   {
     "symbol": "AAAIF",
-    "openPrice": -0.11013709073301703,
-    "lastUpdated": 1726996234649
+    "openPrice": -0.1672237810326802,
+    "lastUpdated": 1726996445039
   },
   {
     "symbol": "AAALY",
-    "openPrice": 2.031044920380517,
-    "lastUpdated": 1726996234649
+    "openPrice": -4.857510529817464,
+    "lastUpdated": 1726996445039
   },
   {
     "symbol": "AAAU",
-    "openPrice": 23.50508050922755,
-    "lastUpdated": 1726996234649
+    "openPrice": -4.805469321839393,
+    "lastUpdated": 1726996445039
   },
   {
     "symbol": "AABB",
-    "openPrice": 1.2970724114042436,
-    "lastUpdated": 1726996234649
+    "openPrice": 3.7624811901366915,
+    "lastUpdated": 1726996445039
   },
   {
     "symbol": "AABKF",
-    "openPrice": 23.65776146958673,
-    "lastUpdated": 1726996234649
+    "openPrice": -7.9765979243629275,
+    "lastUpdated": 1726996445039
   },
   {
     "symbol": "AABVF",
-    "openPrice": 10.624781932696333,
-    "lastUpdated": 1726996234649
+    "openPrice": 5.377385357735001,
+    "lastUpdated": 1726996445039
   },
   {
     "symbol": "AACAF",
-    "openPrice": 15.329907788660284,
-    "lastUpdated": 1726996234649
+    "openPrice": 4.17079093821242,
+    "lastUpdated": 1726996445039
   },
   {
     "symbol": "AACAY",
-    "openPrice": 11.832000372902698,
-    "lastUpdated": 1726996234649
+    "openPrice": -3.659919720747083,
+    "lastUpdated": 1726996445039
   },
   {
     "symbol": "AACG",
-    "openPrice": -29.682718040530602,
-    "lastUpdated": 1726996234649
+    "openPrice": -9.333737405884714,
+    "lastUpdated": 1726996445039
   },
   {
     "symbol": "AACS",
-    "openPrice": 21.78702183502294,
-    "lastUpdated": 1726996234649
+    "openPrice": 1.1097632839995217,
+    "lastUpdated": 1726996445039
   },
   {
     "symbol": "AACT",
-    "openPrice": -23.187380422610516,
-    "lastUpdated": 1726996234649
+    "openPrice": -3.324229124744027,
+    "lastUpdated": 1726996445039
   },
   {
     "symbol": "AACT.U",
-    "openPrice": 11.537752251268982,
-    "lastUpdated": 1726996234649
+    "openPrice": 7.388501798875657,
+    "lastUpdated": 1726996445039
   },
   {
     "symbol": "AACT.WS",
-    "openPrice": -16.22045864740391,
-    "lastUpdated": 1726996234649
+    "openPrice": -0.17139642427475676,
+    "lastUpdated": 1726996445039
   },
   {
     "symbol": "AACTF",
-    "openPrice": -0.5912690827221834,
-    "lastUpdated": 1726996234649
+    "openPrice": -11.812015666437166,
+    "lastUpdated": 1726996445039
   },
   {
     "symbol": "AADI",
-    "openPrice": 20.44506616399017,
-    "lastUpdated": 1726996234649
+    "openPrice": -3.427229932377437,
+    "lastUpdated": 1726996445039
   },
   {
     "symbol": "AADR",
-    "openPrice": 13.459373056821617,
-    "lastUpdated": 1726996234649
+    "openPrice": 15.160046417958553,
+    "lastUpdated": 1726996445039
   },
   {
     "symbol": "AAEEF",
-    "openPrice": 36.89020695300214,
-    "lastUpdated": 1726996234649
+    "openPrice": 2.1389918224056075,
+    "lastUpdated": 1726996445039
   },
   {
     "symbol": "AAFRF",
-    "openPrice": 0.13604533152129328,
-    "lastUpdated": 1726996234649
+    "openPrice": -4.399743649234254,
+    "lastUpdated": 1726996445039
   },
   {
     "symbol": "AAGC",
-    "openPrice": 16.82042286101111,
-    "lastUpdated": 1726996234649
+    "openPrice": -4.4105962105731145,
+    "lastUpdated": 1726996445039
   },
   {
     "symbol": "AAGFF",
-    "openPrice": -10.69050915068804,
-    "lastUpdated": 1726996234649
+    "openPrice": -7.707958178902315,
+    "lastUpdated": 1726996445039
   },
   {
     "symbol": "AAGH",
-    "openPrice": 6.476397651095055,
-    "lastUpdated": 1726996234649
+    "openPrice": -5.64608914888201,
+    "lastUpdated": 1726996445039
   },
   {
     "symbol": "AAGIY",
-    "openPrice": 23.723185072091376,
-    "lastUpdated": 1726996234649
+    "openPrice": 5.337680856334918,
+    "lastUpdated": 1726996445039
   },
   {
     "symbol": "AAGR",
-    "openPrice": 15.532910797739946,
-    "lastUpdated": 1726996234649
+    "openPrice": -2.903494206495128,
+    "lastUpdated": 1726996445039
   },
   {
     "symbol": "AAGRW",
-    "openPrice": 12.945412823520098,
-    "lastUpdated": 1726996234649
+    "openPrice": 9.763680182974483,
+    "lastUpdated": 1726996445039
   },
   {
     "symbol": "AAGRY",
-    "openPrice": 28.600794662605722,
-    "lastUpdated": 1726996234649
+    "openPrice": 1.0546421388527571,
+    "lastUpdated": 1726996445039
   },
   {
     "symbol": "AAHIF",
-    "openPrice": -2.990854197834284,
-    "lastUpdated": 1726996234649
+    "openPrice": -6.695291875251224,
+    "lastUpdated": 1726996445039
   },
   {
     "symbol": "AAIGF",
-    "openPrice": -33.34319432985705,
-    "lastUpdated": 1726996234649
+    "openPrice": 2.133910931896087,
+    "lastUpdated": 1726996445039
   },
   {
     "symbol": "AAIIQ",
-    "openPrice": -22.597979263957328,
-    "lastUpdated": 1726996234649
+    "openPrice": -1.6193987760272939,
+    "lastUpdated": 1726996445039
   },
   {
     "symbol": "AAIRF",
-    "openPrice": -22.753080672802472,
-    "lastUpdated": 1726996234649
+    "openPrice": -8.318997977158464,
+    "lastUpdated": 1726996445039
   },
   {
     "symbol": "AAKAY",
-    "openPrice": 6.851247549367246,
-    "lastUpdated": 1726996234649
+    "openPrice": -3.9698423767287174,
+    "lastUpdated": 1726996445039
   },
   {
     "symbol": "AAL",
-    "openPrice": -5.217700958936023,
-    "lastUpdated": 1726996234649
+    "openPrice": -1.7977200546219754,
+    "lastUpdated": 1726996445039
   },
   {
     "symbol": "AALBF",
-    "openPrice": 19.4096814464853,
-    "lastUpdated": 1726996234649
+    "openPrice": 3.131614564268484,
+    "lastUpdated": 1726996445039
   },
   {
     "symbol": "AAM",
-    "openPrice": 13.477610969920242,
-    "lastUpdated": 1726996234649
+    "openPrice": 2.7880573309899415,
+    "lastUpdated": 1726996445039
   },
   {
     "symbol": "AAM.U",
-    "openPrice": -25.907074761923433,
-    "lastUpdated": 1726996234649
+    "openPrice": -5.944679717336539,
+    "lastUpdated": 1726996445039
   },
   {
     "symbol": "AAM.WS",
-    "openPrice": -15.772612661541837,
-    "lastUpdated": 1726996234649
+    "openPrice": 1.6087848591420864,
+    "lastUpdated": 1726996445039
   },
   {
     "symbol": "AAMAF",
-    "openPrice": 23.938552982494272,
-    "lastUpdated": 1726996234649
+    "openPrice": 4.895455995099145,
+    "lastUpdated": 1726996445039
   },
   {
     "symbol": "AAMCF",
-    "openPrice": -24.70835597282852,
-    "lastUpdated": 1726996234649
+    "openPrice": 6.985308492682529,
+    "lastUpdated": 1726996445039
   },
   {
     "symbol": "AAME",
-    "openPrice": -1.048301696907338,
-    "lastUpdated": 1726996234649
+    "openPrice": 8.539091118889713,
+    "lastUpdated": 1726996445039
   },
   {
     "symbol": "AAMMF",
-    "openPrice": -22.062670552557996,
-    "lastUpdated": 1726996234649
+    "openPrice": -7.801615914177596,
+    "lastUpdated": 1726996445039
   },
   {
     "symbol": "AAMTF",
-    "openPrice": -2.266293722410479,
-    "lastUpdated": 1726996234649
+    "openPrice": -3.538006726585605,
+    "lastUpdated": 1726996445039
   },
   {
     "symbol": "AAN",
-    "openPrice": 28.757073185800124,
-    "lastUpdated": 1726996234649
+    "openPrice": -8.989391958787259,
+    "lastUpdated": 1726996445039
   },
   {
     "symbol": "AANNF",
-    "openPrice": 12.496788740531075,
-    "lastUpdated": 1726996234649
+    "openPrice": -4.622696976333236,
+    "lastUpdated": 1726996445039
   },
   {
     "symbol": "AAOI",
-    "openPrice": 4.3573701309518205,
-    "lastUpdated": 1726996234649
+    "openPrice": -6.136423366417731,
+    "lastUpdated": 1726996445039
   },
   {
     "symbol": "AAON",
-    "openPrice": -10.804481534983523,
-    "lastUpdated": 1726996234649
+    "openPrice": -6.332271478311178,
+    "lastUpdated": 1726996445039
   },
   {
     "symbol": "AAP",
-    "openPrice": -13.145800322496958,
-    "lastUpdated": 1726996234649
+    "openPrice": 4.814190395646777,
+    "lastUpdated": 1726996445039
   },
   {
     "symbol": "AAPB",
-    "openPrice": -20.58195963354264,
-    "lastUpdated": 1726996234649
+    "openPrice": -2.201552944053665,
+    "lastUpdated": 1726996445039
   },
   {
     "symbol": "AAPD",
-    "openPrice": 23.185794042465957,
-    "lastUpdated": 1726996234649
+    "openPrice": 1.2254160820294921,
+    "lastUpdated": 1726996445039
   },
   {
     "symbol": "AAPI",
-    "openPrice": 3.0252704590384525,
-    "lastUpdated": 1726996234649
+    "openPrice": 16.20115675853799,
+    "lastUpdated": 1726996445039
   },
   {
     "symbol": "AAPJ",
-    "openPrice": -26.29044654102385,
-    "lastUpdated": 1726996234649
+    "openPrice": 2.6855741875601833,
+    "lastUpdated": 1726996445039
   },
   {
     "symbol": "AAPL",
-    "openPrice": -4.181350729307411,
-    "lastUpdated": 1726996234649
+    "openPrice": -2.82369111620953,
+    "lastUpdated": 1726996445039
   },
   {
     "symbol": "AAPR",
-    "openPrice": -8.614680664959211,
-    "lastUpdated": 1726996234649
+    "openPrice": -1.890940817170022,
+    "lastUpdated": 1726996445039
   },
   {
     "symbol": "AAPT",
-    "openPrice": 2.0738548453353745,
-    "lastUpdated": 1726996234649
+    "openPrice": 8.14601610062579,
+    "lastUpdated": 1726996445039
   },
   {
     "symbol": "AAPU",
-    "openPrice": -19.202570612526912,
-    "lastUpdated": 1726996234649
+    "openPrice": -9.988310948457142,
+    "lastUpdated": 1726996445039
   },
   {
     "symbol": "AAPX",
-    "openPrice": 5.418725190263375,
-    "lastUpdated": 1726996234649
+    "openPrice": -6.870804879762348,
+    "lastUpdated": 1726996445039
   },
   {
     "symbol": "AAPY",
-    "openPrice": -3.1375652987592844,
-    "lastUpdated": 1726996234649
+    "openPrice": -7.415772209164354,
+    "lastUpdated": 1726996445039
   },
   {
     "symbol": "AAQL",
-    "openPrice": -20.283587823978372,
-    "lastUpdated": 1726996234649
+    "openPrice": -6.89556981455465,
+    "lastUpdated": 1726996445039
   },
   {
     "symbol": "AARTY",
-    "openPrice": 4.315402754304168,
-    "lastUpdated": 1726996234649
+    "openPrice": 10.888282333306833,
+    "lastUpdated": 1726996445039
   },
   {
     "symbol": "AASCF",
-    "openPrice": 6.888227538386625,
-    "lastUpdated": 1726996234649
+    "openPrice": -13.136267281699237,
+    "lastUpdated": 1726996445039
   },
   {
     "symbol": "AASLF",
-    "openPrice": -20.784736329741122,
-    "lastUpdated": 1726996234649
+    "openPrice": -11.798847353849403,
+    "lastUpdated": 1726996445039
   },
   {
     "symbol": "AASP",
-    "openPrice": 45.87649147434081,
-    "lastUpdated": 1726996234649
+    "openPrice": -0.47221516124952334,
+    "lastUpdated": 1726996445039
   },
   {
     "symbol": "AASZF",
-    "openPrice": 7.154703837854234,
-    "lastUpdated": 1726996234649
+    "openPrice": -7.9034188438135065,
+    "lastUpdated": 1726996445039
   },
   {
     "symbol": "AAT",
-    "openPrice": 9.656239077504496,
-    "lastUpdated": 1726996234649
+    "openPrice": 0.8890846912504129,
+    "lastUpdated": 1726996445039
   },
   {
     "symbol": "AATC",
-    "openPrice": 16.9531262138716,
-    "lastUpdated": 1726996234649
+    "openPrice": -8.334170503336182,
+    "lastUpdated": 1726996445039
   },
   {
     "symbol": "AATGF",
-    "openPrice": 16.13978133906757,
-    "lastUpdated": 1726996234649
+    "openPrice": -2.189509238854444,
+    "lastUpdated": 1726996445039
   },
   {
     "symbol": "AATRL",
-    "openPrice": -11.444339012407072,
-    "lastUpdated": 1726996234649
+    "openPrice": 2.1470923875468224,
+    "lastUpdated": 1726996445039
   },
   {
     "symbol": "AATV",
-    "openPrice": 23.4516935565015,
-    "lastUpdated": 1726996234649
+    "openPrice": 9.404663365035905,
+    "lastUpdated": 1726996445039
   },
   {
     "symbol": "AAUAF",
-    "openPrice": 25.815862389066353,
-    "lastUpdated": 1726996234649
+    "openPrice": -7.968191256937459,
+    "lastUpdated": 1726996445039
   },
   {
     "symbol": "AAUCF",
-    "openPrice": -4.532513224345697,
-    "lastUpdated": 1726996234649
+    "openPrice": -11.000647094722522,
+    "lastUpdated": 1726996445039
   },
   {
     "symbol": "AAUGF",
-    "openPrice": 8.54273274846992,
-    "lastUpdated": 1726996234649
+    "openPrice": -5.886732134694936,
+    "lastUpdated": 1726996445039
   },
   {
     "symbol": "AAUKF",
-    "openPrice": -2.6541389188996067,
-    "lastUpdated": 1726996234649
+    "openPrice": 4.035802248736889,
+    "lastUpdated": 1726996445039
   },
   {
     "symbol": "AAVMY",
-    "openPrice": -9.586686422250033,
-    "lastUpdated": 1726996234649
+    "openPrice": 1.0752608969829667,
+    "lastUpdated": 1726996445039
   },
   {
     "symbol": "AAVVF",
-    "openPrice": 23.68074472886159,
-    "lastUpdated": 1726996234649
+    "openPrice": -1.5836068424172272,
+    "lastUpdated": 1726996445039
   },
   {
     "symbol": "AAVXF",
-    "openPrice": -34.934860450445285,
-    "lastUpdated": 1726996234649
+    "openPrice": 0.8633812931601015,
+    "lastUpdated": 1726996445039
   },
   {
     "symbol": "AAWH",
-    "openPrice": -8.938578264104562,
-    "lastUpdated": 1726996234649
+    "openPrice": 2.174424113416844,
+    "lastUpdated": 1726996445039
   },
   {
     "symbol": "AAXJ",
-    "openPrice": -4.285496372314604,
-    "lastUpdated": 1726996234649
+    "openPrice": -4.729877571288524,
+    "lastUpdated": 1726996445039
   },
   {
     "symbol": "AAXJ",
-    "openPrice": -15.073175423151811,
-    "lastUpdated": 1726996234649
+    "openPrice": -7.034315622282195,
+    "lastUpdated": 1726996445039
   },
   {
     "symbol": "AAXN",
-    "openPrice": -2.7181008035900662,
-    "lastUpdated": 1726996234649
+    "openPrice": -13.091707018637413,
+    "lastUpdated": 1726996445039
   },
   {
     "symbol": "AAXT",
-    "openPrice": -1.585645522372432,
-    "lastUpdated": 1726996234649
+    "openPrice": 4.824184020170373,
+    "lastUpdated": 1726996445039
   },
   {
     "symbol": "AAYYY",
-    "openPrice": -13.954345546444667,
-    "lastUpdated": 1726996234649
+    "openPrice": 18.40602573053401,
+    "lastUpdated": 1726996445039
   },
   {
     "symbol": "AB",
-    "openPrice": -10.503178705745533,
-    "lastUpdated": 1726996234649
+    "openPrice": -6.192627852367534,
+    "lastUpdated": 1726996445039
   },
   {
     "symbol": "ABAKF",
-    "openPrice": -25.838900935718744,
-    "lastUpdated": 1726996234649
+    "openPrice": -2.3100934895495104,
+    "lastUpdated": 1726996445039
   },
   {
     "symbol": "ABANF",
-    "openPrice": 26.35558611693282,
-    "lastUpdated": 1726996234649
+    "openPrice": -1.7686350272576883,
+    "lastUpdated": 1726996445039
   },
   {
     "symbol": "ABAT",
-    "openPrice": 3.4482078144968042,
-    "lastUpdated": 1726996234649
+    "openPrice": -6.073477657930184,
+    "lastUpdated": 1726996445039
   },
   {
     "symbol": "ABBAF",
-    "openPrice": -1.28547986413008,
-    "lastUpdated": 1726996234649
+    "openPrice": 5.72682665598363,
+    "lastUpdated": 1726996445039
   },
   {
     "symbol": "ABBB",
-    "openPrice": 29.31198459486542,
-    "lastUpdated": 1726996234649
+    "openPrice": -3.4719448363070837,
+    "lastUpdated": 1726996445039
   },
   {
     "symbol": "ABBNY",
-    "openPrice": 3.26097261369746,
-    "lastUpdated": 1726996234649
+    "openPrice": -4.700821142649815,
+    "lastUpdated": 1726996445039
   },
   {
     "symbol": "ABBRF",
-    "openPrice": -19.604976356834083,
-    "lastUpdated": 1726996234649
+    "openPrice": 6.889085041693316,
+    "lastUpdated": 1726996445039
   },
   {
     "symbol": "ABBV",
-    "openPrice": -0.429887474702376,
-    "lastUpdated": 1726996234649
+    "openPrice": -2.4199472727336335,
+    "lastUpdated": 1726996445039
   },
   {
     "symbol": "ABBY",
-    "openPrice": -8.178030931045356,
-    "lastUpdated": 1726996234649
+    "openPrice": -3.7639536445876702,
+    "lastUpdated": 1726996445039
   },
   {
     "symbol": "ABC",
-    "openPrice": 26.50367444533882,
-    "lastUpdated": 1726996234649
+    "openPrice": 1.831127730084825,
+    "lastUpdated": 1726996445039
   },
   {
     "symbol": "ABCB",
-    "openPrice": 8.829468943745898,
-    "lastUpdated": 1726996234649
+    "openPrice": -4.036586920452388,
+    "lastUpdated": 1726996445039
   },
   {
     "symbol": "ABCCF",
-    "openPrice": 16.907621051833143,
-    "lastUpdated": 1726996234649
+    "openPrice": -4.177404960863421,
+    "lastUpdated": 1726996445039
   },
   {
     "symbol": "ABCE",
-    "openPrice": -20.886505793158022,
-    "lastUpdated": 1726996234649
+    "openPrice": -2.9644922760842123,
+    "lastUpdated": 1726996445039
   },
   {
     "symbol": "ABCFF",
-    "openPrice": 5.264553468816615,
-    "lastUpdated": 1726996234649
+    "openPrice": -4.858564479319062,
+    "lastUpdated": 1726996445039
   },
   {
     "symbol": "ABCGF",
-    "openPrice": -8.193133779567294,
-    "lastUpdated": 1726996234649
+    "openPrice": -5.76955979117679,
+    "lastUpdated": 1726996445039
   },
   {
     "symbol": "ABCL",
-    "openPrice": -16.109562776997677,
-    "lastUpdated": 1726996234649
+    "openPrice": 3.3286737219643214,
+    "lastUpdated": 1726996445039
   },
   {
     "symbol": "ABCP",
-    "openPrice": 24.904663420206475,
-    "lastUpdated": 1726996234649
+    "openPrice": 1.4162220860962709,
+    "lastUpdated": 1726996445039
   }
 ]

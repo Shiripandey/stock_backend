@@ -1,3 +1,4 @@
+require('dotenv').config();
 const express = require('express');
 const axios = require('axios');
 const fs = require('fs');
@@ -20,7 +21,7 @@ app.use((req, res, next) => {
   next();
 });
 
-const polygonApiKey = 'QlOE7feVp6mhdVa4sovHtWyAhpB3BIAb';
+const polygonApiKey = process.env.POLYGON_API_KEY; // Use environment variable for API key
 const stocksFile = path.join(__dirname, 'stocks.json');
 
 const fetchStockList = async () => {
